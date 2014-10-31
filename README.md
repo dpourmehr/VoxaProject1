@@ -1,5 +1,5 @@
 #newProject
-> E.g. Seed project to get started with Famo.us.
+> E.g. Beginner Famo.us Project for Internship Interview
 
 [![Build Status](https://travis-ci.org/dpourmehr/newproject.svg?branch=master)](https://travis-ci.org/dpourmehr/newproject) [![Dependency Status](https://david-dm.org/dpourmehr/newproject.svg)](https://david-dm.org/dpourmehr/newproject) [![devDependency Status](https://david-dm.org/dpourmehr/newproject.svg)](https://david-dm.org/dpourmehr/newproject#info=devDependencies)
 
